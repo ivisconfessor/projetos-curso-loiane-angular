@@ -4,7 +4,6 @@ import { Component } from "@angular/core";
     selector: 'meu-primeiro-component',
     template: `
         <p>Meu primeiro component com Angular!</p>
-        <p>---------</p>
     `
 })
 
